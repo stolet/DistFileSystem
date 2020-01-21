@@ -1,0 +1,16 @@
+{
+  "MinedCoinsPerOpBlock" : 1,
+  "MinedCoinsPerNoOpBlock" : 1,
+  "NumCoinsPerFileCreate" : 2,
+  "GenOpBlockTimeout" : 5,
+  "GenesisBlockHash" : "83218ac34c1834c26781fe4bde918ee4",
+  "PowPerOpBlock" : 3,
+  "PowPerNoOpBlock" : 6,
+  "ConfirmsPerFileCreate" : 2,
+  "ConfirmsPerFileAppend" : 4,
+  "MinerID" : "Claudius",
+  "PeerMinersAddrs" : ["40.121.65.58:5050"],
+  "IncomingMinersAddr" : "10.0.0.5:5151",
+  "OutgoingMinersIP" : "40.121.11.101",
+  "IncomingClientsAddr" : "10.0.0.5:9191"
+}

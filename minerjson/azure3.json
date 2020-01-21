@@ -1,0 +1,16 @@
+{
+  "MinedCoinsPerOpBlock" : 1,
+  "MinedCoinsPerNoOpBlock" : 1,
+  "NumCoinsPerFileCreate" : 2,
+  "GenOpBlockTimeout" : 5,
+  "GenesisBlockHash" : "83218ac34c1834c26781fe4bde918ee4",
+  "PowPerOpBlock" : 3,
+  "PowPerNoOpBlock" : 6,
+  "ConfirmsPerFileCreate" : 2,
+  "ConfirmsPerFileAppend" : 4,
+  "MinerID" : "Atticus",
+  "PeerMinersAddrs" : ["40.121.11.101:5151"],
+  "IncomingMinersAddr" : "10.0.0.6:5252",
+  "OutgoingMinersIP" : "40.114.64.239",
+  "IncomingClientsAddr" : "10.0.0.6:9292"
+}
